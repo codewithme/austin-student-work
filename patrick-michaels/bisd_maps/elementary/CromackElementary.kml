@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Cromack Elementary</name>
+  <description><![CDATA[Cromack Elementary]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40FF0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>Cromack Elementary</name>
+    <description><![CDATA[<div dir="ltr">3200 E. 30th Street<br>Brownsville, Texas  78521<br>Phone: (956) 548-8820<br>Fax: (956) 548-8824<br>Date Opened:  1953<br>School Mascot:  Lion<br>School Colors:  Blue / Yellow</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-97.463470,25.905556,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cromack Elementary</name>
+    <description><![CDATA[<div dir="ltr">Cromack Elementary</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -97.469757,25.910343,0.000000
+            -97.469543,25.915438,0.000000
+            -97.467697,25.915400,0.000000
+            -97.462463,25.912582,0.000000
+            -97.461823,25.910999,0.000000
+            -97.460915,25.910034,0.000000
+            -97.460060,25.910267,0.000000
+            -97.458473,25.908836,0.000000
+            -97.456070,25.907448,0.000000
+            -97.455811,25.907198,0.000000
+            -97.458366,25.904959,0.000000
+            -97.458878,25.904514,0.000000
+            -97.462463,25.905807,0.000000
+            -97.463020,25.904783,0.000000
+            -97.463150,25.904243,0.000000
+            -97.463280,25.902700,0.000000
+            -97.463943,25.902487,0.000000
+            -97.464546,25.903606,0.000000
+            -97.466087,25.903164,0.000000
+            -97.466797,25.900499,0.000000
+            -97.467422,25.898588,0.000000
+            -97.466583,25.898298,0.000000
+            -97.465942,25.895693,0.000000
+            -97.464951,25.895115,0.000000
+            -97.470184,25.888899,0.000000
+            -97.470146,25.893993,0.000000
+            -97.470963,25.898472,0.000000
+            -97.470276,25.899439,0.000000
+            -97.469971,25.900597,0.000000
+            -97.470299,25.901503,0.000000
+            -97.471199,25.902391,0.000000
+            -97.470879,25.904881,0.000000
+            -97.471153,25.905710,0.000000
+            -97.470467,25.907621,0.000000
+            -97.469543,25.910170,0.000000
+            -97.469757,25.910343,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

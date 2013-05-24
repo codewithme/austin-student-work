@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Victoria Heights Elementary</name>
+  <description><![CDATA[Victoria Heights Elementary
+]]></description>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40FF0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>Victoria Heights Elementary</name>
+    <description><![CDATA[<div dir="ltr">2801 E. 13th Street<br>Brownsville, Texas  78521<br>Phone: (956) 982-2960<br>Fax: (956) 982-2988 <br>Date Opened:  1926<br>School Mascot:  Tiger<br>School Colors:  Red / White</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-97.481689,25.913239,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Victoria Heights Elementary</name>
+    <description><![CDATA[<div dir="ltr">Victoria Heights Elementary</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -97.491089,25.922695,0.000000
+            -97.470360,25.921421,0.000000
+            -97.469330,25.919876,0.000000
+            -97.474396,25.912312,0.000000
+            -97.474350,25.911810,0.000000
+            -97.474869,25.910883,0.000000
+            -97.475983,25.910343,0.000000
+            -97.478859,25.911425,0.000000
+            -97.481300,25.909803,0.000000
+            -97.482635,25.911694,0.000000
+            -97.486107,25.909340,0.000000
+            -97.486366,25.908798,0.000000
+            -97.487572,25.907719,0.000000
+            -97.490570,25.911425,0.000000
+            -97.491562,25.915091,0.000000
+            -97.491219,25.919645,0.000000
+            -97.491089,25.922695,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

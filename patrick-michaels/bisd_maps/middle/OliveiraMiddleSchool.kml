@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Oliveira Middle School</name>
+  <description><![CDATA[Dr. Arnulfo Oliveira 
+Middle School (045)
+444 Land O’ Lakes
+Brownsville, Texas  78521
+Phone: (956) 548-8530 
+Fax: (956) 544-3968
+Date Opened:  1979
+School Mascot:  Dolphin
+School Colors:  Red / White / Blue]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>33FF0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>Oliveira Middle School</name>
+    <description><![CDATA[<div dir="ltr">444 Land O’ Lakes<br>Brownsville, Texas 78521<br>Phone: (956) 548-8530 <br>Fax: (956) 544-3968<br>Date Opened: 1979<br>School Mascot: Dolphin<br>School Colors: Red / White / Blue</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-97.467819,25.925301,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oliveira Middle School</name>
+    <description><![CDATA[<div dir="ltr">444 Land O’ Lakes<br>Brownsville, Texas  78521<br>Phone: (956) 548-8530 <br>Fax: (956) 544-3968<br>Date Opened:  1979<br>School Mascot:  Dolphin<br>School Colors:  Red / White / Blue</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -97.487183,25.907911,0.000000
+            -97.489113,25.909958,0.000000
+            -97.490829,25.913816,0.000000
+            -97.491043,25.916828,0.000000
+            -97.490746,25.922386,0.000000
+            -97.490746,25.925821,0.000000
+            -97.491600,25.929026,0.000000
+            -97.493065,25.931070,0.000000
+            -97.498299,25.936550,0.000000
+            -97.503059,25.941954,0.000000
+            -97.504433,25.944115,0.000000
+            -97.504692,25.945774,0.000000
+            -97.504990,25.949286,0.000000
+            -97.500488,25.950134,0.000000
+            -97.498596,25.950983,0.000000
+            -97.496284,25.951601,0.000000
+            -97.493752,25.951563,0.000000
+            -97.490059,25.951368,0.000000
+            -97.489845,25.952450,0.000000
+            -97.489632,25.955652,0.000000
+            -97.486450,25.954996,0.000000
+            -97.484909,25.954687,0.000000
+            -97.482765,25.953608,0.000000
+            -97.479630,25.953491,0.000000
+            -97.476967,25.955671,0.000000
+            -97.475677,25.956501,0.000000
+            -97.474693,25.955999,0.000000
+            -97.468300,25.955498,0.000000
+            -97.467850,25.955053,0.000000
+            -97.468170,25.949863,0.000000
+            -97.467636,25.949169,0.000000
+            -97.463409,25.948784,0.000000
+            -97.460571,25.948515,0.000000
+            -97.455811,25.948166,0.000000
+            -97.456116,25.944193,0.000000
+            -97.458511,25.944345,0.000000
+            -97.460533,25.944115,0.000000
+            -97.461349,25.935471,0.000000
+            -97.457741,25.932074,0.000000
+            -97.458946,25.928099,0.000000
+            -97.461647,25.925320,0.000000
+            -97.464569,25.923273,0.000000
+            -97.465080,25.921692,0.000000
+            -97.469154,25.918913,0.000000
+            -97.470879,25.916056,0.000000
+            -97.473000,25.913567,0.000000
+            -97.473663,25.912081,0.000000
+            -97.474586,25.910690,0.000000
+            -97.475662,25.910151,0.000000
+            -97.477592,25.910864,0.000000
+            -97.478386,25.911116,0.000000
+            -97.481049,25.909571,0.000000
+            -97.482269,25.911211,0.000000
+            -97.484200,25.910170,0.000000
+            -97.485893,25.909088,0.000000
+            -97.486649,25.908258,0.000000
+            -97.487183,25.907911,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

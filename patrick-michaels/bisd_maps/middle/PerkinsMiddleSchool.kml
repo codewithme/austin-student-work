@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Perkins Middle School</name>
+  <description><![CDATA[Louise C. Perkins 
+Middle School (046)
+4750 Austin Road
+Brownsville, Texas  78521
+Phone: (956) 831-8770
+Fax: (956) 831-8789  
+Date Opened:  1987
+School Mascot:  Stallion
+School Colors:  Red / Silver / Black]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4DFF0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>Perkins Middle School</name>
+    <description><![CDATA[<div dir="ltr">4750 Austin Road<br>Brownsville, Texas  78521<br>Phone: (956) 831-8770<br>Fax: (956) 831-8789  <br>Date Opened:  1987<br>School Mascot:  Stallion<br>School Colors:  Red / Silver / Black</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-97.445534,25.928272,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Perkins Middle School</name>
+    <description><![CDATA[<div dir="ltr">Louise C. Perkins <br>Middle School (046) <br>4750 Austin Road <br>Brownsville, Texas 78521 <br>Phone: (956) 831-8770 <br>Fax: (956) 831-8789 <br>Date Opened: 1987 <br>School Mascot: Stallion <br>School Colors: Red / Silver / Black <br>&nbsp;</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -97.470963,25.916050,0.000000
+            -97.469200,25.918949,0.000000
+            -97.464951,25.921570,0.000000
+            -97.464432,25.923389,0.000000
+            -97.461510,25.925310,0.000000
+            -97.459030,25.928209,0.000000
+            -97.457909,25.932261,0.000000
+            -97.459068,25.933340,0.000000
+            -97.461342,25.935619,0.000000
+            -97.460533,25.944189,0.000000
+            -97.458847,25.944380,0.000000
+            -97.456108,25.944189,0.000000
+            -97.455719,25.948351,0.000000
+            -97.449028,25.947929,0.000000
+            -97.446220,25.947350,0.000000
+            -97.445396,25.947060,0.000000
+            -97.445442,25.945650,0.000000
+            -97.445831,25.939730,0.000000
+            -97.441147,25.939421,0.000000
+            -97.436821,25.938299,0.000000
+            -97.427612,25.943840,0.000000
+            -97.426971,25.943069,0.000000
+            -97.425423,25.940790,0.000000
+            -97.423920,25.939610,0.000000
+            -97.422157,25.938820,0.000000
+            -97.413002,25.938789,0.000000
+            -97.412941,25.942301,0.000000
+            -97.407188,25.942320,0.000000
+            -97.407272,25.938847,0.000000
+            -97.395943,25.938780,0.000000
+            -97.396240,25.931530,0.000000
+            -97.409538,25.931641,0.000000
+            -97.411484,25.932341,0.000000
+            -97.414261,25.930799,0.000000
+            -97.417229,25.928631,0.000000
+            -97.419289,25.928711,0.000000
+            -97.419159,25.929979,0.000000
+            -97.417908,25.931881,0.000000
+            -97.420570,25.931910,0.000000
+            -97.422249,25.932690,0.000000
+            -97.431168,25.932760,0.000000
+            -97.431602,25.924040,0.000000
+            -97.422852,25.924120,0.000000
+            -97.422684,25.916901,0.000000
+            -97.429840,25.916941,0.000000
+            -97.433098,25.915899,0.000000
+            -97.437180,25.915899,0.000000
+            -97.439796,25.915400,0.000000
+            -97.454048,25.915859,0.000000
+            -97.457047,25.916941,0.000000
+            -97.458847,25.913160,0.000000
+            -97.458420,25.911730,0.000000
+            -97.460701,25.909840,0.000000
+            -97.461342,25.910070,0.000000
+            -97.463531,25.912849,0.000000
+            -97.466789,25.914700,0.000000
+            -97.470963,25.916050,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,31 @@
+#map { 
+	height: 400px;
+	width: 500px;
+	float: left;
+}
+
+table.schools { 
+	height: 600px;
+	width: 200px;
+	float: right;
+	text-align: center;
+
+}
+
+table.schools th { 
+	font-family: arial;
+}
+
+table.schools tr { 
+	font-family: arial;
+	font-size: 12px;
+}
+
+.year {
+	float: right;
+}
+
+
+.popup {
+    text-align: center;
+}

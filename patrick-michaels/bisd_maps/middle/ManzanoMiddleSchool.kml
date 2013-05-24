@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Manzano Middle School </name>
+  <description><![CDATA[Manzano Middle School
+]]></description>
+  <Style id="style1">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40FF0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Manzano Middle School </name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -97.539581,25.962900,0.000000
+            -97.540482,25.955530,0.000000
+            -97.541077,25.952749,0.000000
+            -97.542931,25.952065,0.000000
+            -97.544861,25.951099,0.000000
+            -97.547997,25.950056,0.000000
+            -97.548164,25.948051,0.000000
+            -97.535110,25.938240,0.000000
+            -97.533531,25.940519,0.000000
+            -97.531471,25.940479,0.000000
+            -97.529747,25.940870,0.000000
+            -97.525291,25.943720,0.000000
+            -97.521423,25.948009,0.000000
+            -97.519859,25.948648,0.000000
+            -97.516922,25.949942,0.000000
+            -97.517784,25.943844,0.000000
+            -97.516235,25.941799,0.000000
+            -97.510529,25.942879,0.000000
+            -97.504906,25.947086,0.000000
+            -97.505203,25.949440,0.000000
+            -97.506233,25.949247,0.000000
+            -97.507439,25.952488,0.000000
+            -97.511986,25.963331,0.000000
+            -97.521561,25.962637,0.000000
+            -97.521141,25.957081,0.000000
+            -97.528976,25.957230,0.000000
+            -97.532204,25.957500,0.000000
+            -97.531601,25.962130,0.000000
+            -97.539581,25.962900,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Manzano Middle School </name>
+    <description><![CDATA[<div dir="ltr">2580 W. Alton Gloor<br>Brownsville, Texas</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-97.540100,25.955132,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

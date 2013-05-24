@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Lucio Middle School</name>
+  <description><![CDATA[Lucio Middle School]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4DFF0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>Lucio Middle School</name>
+    <description><![CDATA[<div dir="ltr">300 N. Vermillion Road<br>Brownsville, Texas  78521<br>Phone: (956) 831-4550<br>Fax: (956) 838-2298<br>Date Opened:  1997<br>School Mascot:  Lion<br>School Colors: Orange / Green<br></div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-97.416351,25.920282,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lucio Middle School</name>
+    <description><![CDATA[<div dir="ltr">300 N. Vermillion Road<br>Brownsville, Texas  78521<br>Phone: (956) 831-4550<br>Fax: (956) 838-2298<br>Date Opened:  1997<br>School Mascot:  Lion<br>School Colors: Orange / Green<br></div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -97.451416,25.897951,0.000000
+            -97.448563,25.900112,0.000000
+            -97.452080,25.903278,0.000000
+            -97.448105,25.903259,0.000000
+            -97.444740,25.903124,0.000000
+            -97.444115,25.903240,0.000000
+            -97.443771,25.909359,0.000000
+            -97.443260,25.915573,0.000000
+            -97.439568,25.915419,0.000000
+            -97.437340,25.915882,0.000000
+            -97.433128,25.915958,0.000000
+            -97.429932,25.916904,0.000000
+            -97.422791,25.916904,0.000000
+            -97.422722,25.924162,0.000000
+            -97.431648,25.924084,0.000000
+            -97.431351,25.932749,0.000000
+            -97.422379,25.932789,0.000000
+            -97.420387,25.931881,0.000000
+            -97.418022,25.931843,0.000000
+            -97.403839,25.931688,0.000000
+            -97.385902,25.931688,0.000000
+            -97.382980,25.928408,0.000000
+            -97.362000,25.892006,0.000000
+            -97.359764,25.888414,0.000000
+            -97.420624,25.887836,0.000000
+            -97.420708,25.885248,0.000000
+            -97.422768,25.885212,0.000000
+            -97.423882,25.884323,0.000000
+            -97.433067,25.884439,0.000000
+            -97.433105,25.886099,0.000000
+            -97.436844,25.889072,0.000000
+            -97.441391,25.885866,0.000000
+            -97.444351,25.886370,0.000000
+            -97.446243,25.887991,0.000000
+            -97.447189,25.889805,0.000000
+            -97.448601,25.891388,0.000000
+            -97.448601,25.892586,0.000000
+            -97.447014,25.893898,0.000000
+            -97.451416,25.897951,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

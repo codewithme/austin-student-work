@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Paredes Elementary </name>
+  <description><![CDATA[Paredes Elementary ]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40FF0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>Paredes Elementary </name>
+    <description><![CDATA[<div dir="ltr">3700 Heritage Trail<br>Brownsville, Texas  78521<br>Phone: (956) 574-5582<br>Fax: (956) 574-5584<br>Date Opened:  2001<br>School Mascot:  Shark<br>School Colors:  Royal Blue / Black</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-97.481819,25.963795,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Paredes Elementary </name>
+    <description><![CDATA[<div dir="ltr">Paredes Elementary </div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -97.475998,25.964849,0.000000
+            -97.475250,25.964251,0.000000
+            -97.475288,25.964251,0.000000
+            -97.477180,25.959990,0.000000
+            -97.477669,25.959990,0.000000
+            -97.478439,25.960449,0.000000
+            -97.479446,25.960880,0.000000
+            -97.480179,25.960720,0.000000
+            -97.481339,25.958771,0.000000
+            -97.483101,25.956610,0.000000
+            -97.483658,25.956190,0.000000
+            -97.483658,25.953760,0.000000
+            -97.482002,25.950741,0.000000
+            -97.486900,25.951290,0.000000
+            -97.486618,25.955469,0.000000
+            -97.488571,25.955469,0.000000
+            -97.488724,25.952641,0.000000
+            -97.488869,25.951361,0.000000
+            -97.494217,25.951830,0.000000
+            -97.496147,25.951630,0.000000
+            -97.499107,25.951059,0.000000
+            -97.502113,25.949940,0.000000
+            -97.505219,25.949610,0.000000
+            -97.505463,25.952560,0.000000
+            -97.507011,25.956810,0.000000
+            -97.506104,25.957541,0.000000
+            -97.505821,25.962790,0.000000
+            -97.505348,25.963350,0.000000
+            -97.505203,25.963940,0.000000
+            -97.505028,25.973900,0.000000
+            -97.500740,25.974091,0.000000
+            -97.498405,25.973700,0.000000
+            -97.496529,25.973391,0.000000
+            -97.494904,25.973122,0.000000
+            -97.493202,25.972813,0.000000
+            -97.491196,25.972446,0.000000
+            -97.489693,25.972195,0.000000
+            -97.488289,25.971830,0.000000
+            -97.485443,25.970200,0.000000
+            -97.485275,25.970718,0.000000
+            -97.482803,25.970539,0.000000
+            -97.482887,25.969151,0.000000
+            -97.480118,25.967279,0.000000
+            -97.475998,25.964849,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

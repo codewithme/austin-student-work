@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Faulk Middle School</name>
+  <description><![CDATA[2000 Roosevelt Street
+Brownsville, Texas  78521
+Phone: (956) 548-8500 
+Fax: (956) 982-2894
+School Mascot:  Hawk
+School Colors:  Brown / Gold]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <LineStyle>
+      <color>40000000</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4DFF0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>Faulk Middle School</name>
+    <description><![CDATA[<div dir="ltr">Harry Lee Faulk <br>Middle School (043)<br>2000 Roosevelt Street<br>Brownsville, Texas  78521<br>Phone: (956) 548-8500 <br>Fax: (956) 982-2894<br>School Mascot:  Hawk<br>School Colors:  Brown / Gold</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-97.475960,25.904978,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Faulk Middle School</name>
+    <description><![CDATA[<div dir="ltr">Harry Lee Faulk <br>Middle School<br>2000 Roosevelt Street<br>Brownsville, Texas  78521<br>Phone: (956) 548-8500 <br>Fax: (956) 982-2894<br>School Mascot:  Hawk<br>School Colors:  Brown / Gold<br><br><br><br></div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -97.476326,25.883320,0.000000
+            -97.476456,25.888029,0.000000
+            -97.477570,25.892160,0.000000
+            -97.477615,25.896639,0.000000
+            -97.479546,25.899727,0.000000
+            -97.484390,25.905132,0.000000
+            -97.487137,25.907871,0.000000
+            -97.482201,25.911268,0.000000
+            -97.481522,25.910419,0.000000
+            -97.480873,25.909454,0.000000
+            -97.478256,25.911230,0.000000
+            -97.475639,25.910110,0.000000
+            -97.474457,25.910788,0.000000
+            -97.473259,25.912832,0.000000
+            -97.471436,25.915400,0.000000
+            -97.471024,25.915882,0.000000
+            -97.466560,25.914608,0.000000
+            -97.463516,25.912870,0.000000
+            -97.461220,25.910053,0.000000
+            -97.460640,25.909861,0.000000
+            -97.458427,25.911945,0.000000
+            -97.458710,25.912851,0.000000
+            -97.458473,25.913971,0.000000
+            -97.457031,25.917002,0.000000
+            -97.453987,25.915844,0.000000
+            -97.447121,25.915611,0.000000
+            -97.443283,25.915516,0.000000
+            -97.444138,25.903240,0.000000
+            -97.451927,25.903240,0.000000
+            -97.448540,25.900076,0.000000
+            -97.451416,25.897970,0.000000
+            -97.450943,25.897352,0.000000
+            -97.452850,25.895693,0.000000
+            -97.453796,25.897062,0.000000
+            -97.454994,25.897333,0.000000
+            -97.455963,25.898165,0.000000
+            -97.460663,25.895828,0.000000
+            -97.462868,25.894264,0.000000
+            -97.468727,25.888975,0.000000
+            -97.468819,25.884071,0.000000
+            -97.474289,25.881311,0.000000
+            -97.476326,25.883320,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>
