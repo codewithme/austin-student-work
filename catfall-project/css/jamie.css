@@ -1,0 +1,12 @@
+.dropcap {
+	color: #903; 
+	display: block;
+	float: left; 
+	font-family: 'Condiment', serif;
+	font-size: 75px; 
+	line-height: 60px;
+	margin: 15px 30px 0 0;
+	padding-top: 4px; 
+	padding-right: 2px; 
+	padding-left: 3px; 
+}
